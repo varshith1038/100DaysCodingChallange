@@ -1,0 +1,32 @@
+Finished Day 8 challange
+
+<html>
+<head>
+    <title>My Restaurant Menu</title>
+</head>
+<body>
+    <h1>Welcome to MY Restaurant</h1> 
+    <p>Our restaurant, <b>MY</b> offers a unique blend of traditional and contemporary culinary delights, set in a cozy, inviting atmosphere perfect for any occasion.</p>
+    <h2>Menu</h2> 
+    <h3>Appetizers</h3> 
+    <ul> 
+        <li>Garlic Bread</li>
+        <li>Bruschetta</li>
+        <li>Stuffed Mushrooms</li>
+    </ul>
+    <hr> 
+    <h3>Main Courses</h3>
+    <ol> 
+        <li>Biryani</li>
+        <li>Butter Chicken</li>
+        <li>Korma</li>
+    </ol>
+    <hr>
+    <h3>Desserts</h3>
+    <ol>
+        <li>Cake</li>
+        <li>Cookie</li>
+        <li>Candy</li>
+    </ol>
+</body>
+</html>
