@@ -37,12 +37,9 @@ Task 4: User Interaction
 
 Ask the user to input their favorite book genre. Check if the library has any books in that genre and print the titles if available. If not, inform the user that the library doesn't have books in that genre.
 
-#Assessment
+Assessment
 Your program should display information about the library, books, and staff.
 It should correctly implement control flow statements for book genres and looping through book information.
 The print_staff_info function should format and display staff information correctly.
 The user interaction part should appropriately handle input and provide relevant information.
 Feel free to customize and expand upon this exercise to showcase your understanding of the concepts learned from Day 1 to Day 6. Run the program in your VSCode environment and observe the results. Happy coding! 🚀 #PythonComprehensiveExercise #100DaysofCodingChallenge
-
-
-
